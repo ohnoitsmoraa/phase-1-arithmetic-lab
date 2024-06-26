@@ -6,9 +6,9 @@ const multiply = num1 * num2;
 
 const random = Math.floor(Math.random() * Number.MAX_SAFE_INTEGER) + 1;
 
-const num3 = 10;
-const num4 = 6;
+const num3 = 12;
+const num4 = 8;
 const mod = num3 % num4;
 
-const numbers = [10, 6, 5, 20];
+const numbers = [16, 3, 5, 10, 20];
 const max = Math.max(...numbers);
